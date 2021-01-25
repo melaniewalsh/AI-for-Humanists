@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Melanie Walsh:
+  name        : "Melanie Walsh"
+  bio         : "Postdoctoral Associate in Information Science at Cornell"
+  avatar      : "/assets/images/mwalsh-bio.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:melanie.walsh@cornell.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://melaniewalsh.org/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mellymeldubs"

@@ -1,9 +1,12 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Blog Posts"
+    url: /blog-posts/
+  - title: "Annotated Bibliography"
+    url: /bibliography/
+  - title: "Code Tutorials"
+    url: /tutorials/
+  - title: "Workshops"
+    url: /workshops/
+  - title: "People"
+    url: /people/
+
