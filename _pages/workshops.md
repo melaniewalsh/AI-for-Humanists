@@ -1,6 +1,6 @@
 ---
 permalink: /workshops/
-title: "Workshops"
+title: ""
 ---
 
-Here's info about the workshops.
+# Friday May 28, 2021

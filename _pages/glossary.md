@@ -1,0 +1,26 @@
+---
+permalink: /glossary/
+title: "Glossary"
+toc_label: " "
+toc_icon: "star"
+toc_sticky: true
+toc: true
+---
+
+## Attention
+## Context
+## Downstream (Task)
+## Fine-tune
+## GPU
+A GPU, or “graphics processing unit,” is a specialized electronic circuit for computer hardware.  Because GPUs allows for parallel processing, they are often used for intensive graphics rendering tasks, like gaming, video editing, and, increasingly, machine learning.
+
+Working with the full-scale version of BERT typically requires access to a GPU. However, most Apple computers do not include GPUs. To use BERT on a computer without a GPU, researchers will typically either need to use a smaller BERT model, such as DistilBERT, or get access to a GPU through Google Colab (where they are offered for free) or through a computing cluster.
+## Head
+## Hidden States
+## Hyperparameters
+## Label
+## Layers
+## Task
+## Transformers
+## Token
+## Vector

@@ -1,11 +1,13 @@
 main:
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /blog-posts/
-  - title: "Annotated Bibliography"
+  - title: "Bibliography"
     url: /bibliography/
-  - title: "Code Tutorials"
+  - title: "Glossary"
+    url: /glossary/
+  - title: "Tutorials"
     url: /tutorials/
-  - title: "Workshops"
+  - title: "Workshop"
     url: /workshops/
   - title: "People"
     url: /people/
