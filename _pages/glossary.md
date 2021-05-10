@@ -22,5 +22,8 @@ Working with the full-scale version of BERT typically requires access to a GPU. 
 ## Layers
 ## Task
 ## Transformers
+## Type
 ## Token
+
 ## Vector
+A vector is just a list of numbers. This is how we translate data for computers to understand. For example, we might translate a sentence in a vector (list) of word counts as input to a classifier.
