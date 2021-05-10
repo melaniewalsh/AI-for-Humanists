@@ -41,6 +41,7 @@ Working with the full-scale version of BERT typically requires access to a GPU. 
 
 ## Task
 
+In the fields of natural language processing and machine learning, research is often divided into sets of well-defined tasks. Tasks might include part-of-speech tagging, sentence parsing, or sentiment analysis. Each task is usually associated with one or more labeled datasets that are used by everyone in the research community. These tasks are formulated either explicitly or implicitly as competitions; for example, many conferences have workshops or "shared task" events where different research teams compete for the highest performance on a shared labeled dataset. A popular exmple of this model is the dat ascience competition website Kaggle. These tasks have pros and cons, as they both push the reserach community towards better results but also constrain progress to the shared datasets and labels (which sometimes contain biases or are missing important examples).
 
 ## Transformers
 
@@ -49,7 +50,7 @@ Working with the full-scale version of BERT typically requires access to a GPU. 
 A token is an individual instance of a word. For example, the sentence *"BERT is big and is also useful"* contains **seven** tokens.
 
 ## Type
-A type is a unique string representation of a word. For example, the sentence *"BERT is big and is also useful"* contains **six** tokens.
+A type is a unique string representation of a word. For example, the sentence *"BERT is big and is also useful"* contains **six** types.
 
 ## Vector
 A vector is just a list of numbers. This is how we translate data for computers to understand. For example, we might translate a sentence in a vector (list) of word counts as input to a classifier.
