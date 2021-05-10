@@ -35,6 +35,7 @@ Working with the full-scale version of BERT typically requires access to a GPU. 
 
 ## Label
 
+Labels are categories developed by researchers for particular tasks and datasets. The researchers then annotate the datasets with the labels. Sometimes there is one label for each document in the dataset, but sometimes there can be zero, one, or more labels for each document in the dataset. These different labeling structures are important to remember when training and evaluating your models.
 
 ## Layers
 
