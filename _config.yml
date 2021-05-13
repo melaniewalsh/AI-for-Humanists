@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: melaniewalsh/BERT-4-Humanists
 minimal_mistakes_skin: dark
 search: true
-logo: "/assets/images/BERT-tiny-logo-color.png/"
+logo: "/assets/images/BERT-tiny-logo-color.png"
 baseurl: "/BERT-for-Humanists"
 
 # Build settings
