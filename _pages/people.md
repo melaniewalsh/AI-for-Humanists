@@ -3,9 +3,11 @@ permalink: /people/
 title: ""
 ---
 
-- Project Director, David Mimno, Associate Professor, Information Science, Cornell University
-- Co-Project Director, Melanie Walsh, Postdoctoral Associate, Information Science, Cornell University
-- Lead Developer, Maria Antoniak, PhD Candidate, Information Science, Cornell University
+# Project Team
+
+- Project Director, [David Mimno](https://mimno.infosci.cornell.edu/), Associate Professor, Information Science, Cornell University
+- Co-Project Director, [Melanie Walsh](https://melaniewalsh.org/), Postdoctoral Associate, Information Science, Cornell University
+- Lead Developer, [Maria Antoniak](https://maria-antoniak.github.io/), PhD Candidate, Information Science, Cornell University
 
 ## Advisory Board
 
