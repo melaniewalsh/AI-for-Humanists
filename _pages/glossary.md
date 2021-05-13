@@ -67,5 +67,5 @@ A vector is a list of numbers that represents a word or sentence.
 
 You might think of a vector as a list of numbered coordinates that maps a word/sentence to a specific point in space, where points that are closer together are more similar to each other (as our logo illustrates):
 
-<img width=400 src="../assets/images/BERT-logo-small-transparent-splash.png/">
+<img width=400 src="../assets/images/BERT-logo-small-transparent-splash.png">
 
