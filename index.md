@@ -7,7 +7,7 @@ title: BERT for Humanists
 ---
 In the past three years, natural language processing research has been revolutionized by a new technology: contextual embeddings such as ELMo, GPT-2, and especially [**BERT**](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html).
 
-<img width=500 src="/assets/images/BERT-logo-small-transparent-splash.png/">
+<img width=500 src="assets/images/BERT-logo-small-transparent-splash.png/">
 
  These state-of-the-art methods can understand human language significantly better than previous methods. For example, BERT can disambiguate between multivalent words — *<b>bank</b> accounts* and *river <b>bank</b>* — with never-before-seen levels of accuracy.
 
