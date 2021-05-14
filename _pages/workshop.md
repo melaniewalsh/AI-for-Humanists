@@ -11,9 +11,11 @@ toc: true
 
 **Friday June 4th, 2021 — 1pm-3pm Eastern**
 
+**Hosted by David Mimno, Melanie Walsh, and Maria Antoniak**
+
 *You can register for the [Zoom workshop here](https://cornell.zoom.us/meeting/register/tJ0kd-6trTMuGdQQBOa4mLM7_8WrOzZawwLE)*
 
-In the last three years, natural language processing researchers have been abuzz about a state-of-the-art method called BERT....
+In the last three years, natural language processing researchers have been abuzz about a state-of-the-art method called BERT...
 
 ## Details
 What is BERT? How do you use it? What kinds of digital humanities projects will BERT be most useful for?

@@ -11,22 +11,36 @@ title: ""
 
 ## Advisory Board
 
-- Ted Underwood, Professor, School of Information Sciences and English, University of Illinois, Urbana-Champaign
-
 - David Bamman, Assistant Professor, School of Information, UC Berkeley
+
+- Peter Bol, Professor,  East Asian Languages and Civilizations, Harvard University
+
+- Rachel Buurma, Associate Professor, English, Swarthmore College
+
+- Matthew Gold, Associate Professor, English and Digital Humanities, The Graduate Center, CUNY
+
+- Alvin C. Grissom II, Assistant Professor, Computer Science, Haverford College
+
+- Lauren Klein, Associate Professor, English and Quantitative Theory and Methods, Emory University
 
 - Lucy Li, PhD student, School of Information, UC Berkeley
 
 - Matt Sims, Postdoctoral Scholar, School of Information, UC Berkeley
 
-- Rachel Buurma, Associate Professor, English, Swarthmore College
+- Ted Underwood, Professor, School of Information Sciences and English, University of Illinois, Urbana-Champaign
 
-- Alvin C. Grissom II, Assistant Professor, Computer Science, Haverford College
+- Hongsu Henry Wang,  Research Fellow, Institute for Quantitative Social Science, Harvard University
 
 - Richard Wicentowski, Professor, Computer Science, Swarthmore College
 
-- Lauren Klein, Associate Professor, English and Quantitative Theory and Methods, Emory University
+- Matt Wilkens, Associate Professor, Information Science, Cornell University
 
-- Ryan Dubnicek, Digital Humanities Specialist, HTRC, University of Illinois
+- Liu Zhou, Peking University
+
+
+
+
+
+
 
 
