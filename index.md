@@ -5,6 +5,7 @@
 layout: single
 title: BERT for Humanists
 ---
+
 In the past three years, natural language processing research has been revolutionized by a new technology: contextual embeddings such as ELMo, GPT-2, and especially [**BERT**](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html).
 
 <img width=500 src="assets/images/BERT-logo-small-transparent-splash.png">

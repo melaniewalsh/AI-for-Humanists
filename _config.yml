@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: BERT for Humanists
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  The BERT for Humanists project is developing resources to enable DH scholars to explore how BERT-like models can be used in their research and teaching. Find an annotated bibliography of research papers and tools, a glossary of relevant terms, code tutorials, and information about our virtual workshop in June 2021.
+description:  The BERT for Humanists project is developing resources to enable DH scholars to explore how BERT-like models can be used in their research and teaching. Find an annotated bibliography of research papers and tools, a glossary of relevant terms, code tutorials, and information about our virtual workshop in June 2021.
 #twitter_username: username
 github_username: melaniewalsh/BERT-4-Humanists
 minimal_mistakes_skin: dark
@@ -25,7 +24,7 @@ logo: "/assets/images/BERT-tiny-logo-color.png"
 baseurl: "/BERT-for-Humanists"
 
 teaser: "/assets/images/BERT-logo-social.png"
-og_image: "assets/images/BERT-logo-social.png"
+og_image: "/assets/images/BERT-logo-social.png"
 
 # Build settings
 markdown: kramdown
