@@ -21,11 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: melaniewalsh/BERT-4-Humanists
 minimal_mistakes_skin: dark
 search: true
-logo: "/assets/images/BERT-logo-social.png"
+logo: "/assets/images/BERT-tiny-logo-color.png"
 baseurl: "/BERT-for-Humanists"
 
-teaser: "/assets/images/BERT-logo-small-transparent-splash.png"
-og_image: "assets/images/BERT-logo-small-transparent-splash.png"
+teaser: "/assets/images/BERT-logo-social.png"
+og_image: "assets/images/BERT-logo-social.png"
 
 # Build settings
 markdown: kramdown
