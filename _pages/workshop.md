@@ -5,6 +5,7 @@ toc_label: " "
 toc_icon: "star"
 toc_sticky: true
 toc: true
+layout: single
 ---
 
 # BERT for Humanists Virtual Workshop
