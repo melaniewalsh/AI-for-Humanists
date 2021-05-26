@@ -8,7 +8,7 @@ toc: true
 ---
 
 ## Attention
-Attention is an important component of BERT and other transformer models. At a high level, attention tells the model which pieces of input to "pay attention" to when making predictions. At a low level, attention is just a vector of weights over the inputs. Intuitively, you might expect that the model might "attend" to the words like "best" and "favorite" when doing sentiment analysis (though these attention decisions are often much less intuitive). You can read more about attention in this great [tutorial](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1).
+Attention is an important component of BERT and other transformer models. At a high level, attention tells the model which pieces of input to "pay attention to" when making predictions. At a low level, attention is just a vector of weights over the inputs. Intuitively, you might expect that the model might "attend" to the words like "best" and "favorite" when doing sentiment analysis (though these attention decisions are often much less intuitive). You can read more about attention in this great [tutorial](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1).
 
 ## Fine-Tune
 BERT comes "pre-trained" on a large dataset of English language texts — namely, the entirety of English-language Wikipedia and a corpus of books. However, if you want to improve and tweak BERT to perform better on *specific kinds of texts*, you can "fine-tune" the model.
