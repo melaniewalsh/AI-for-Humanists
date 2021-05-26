@@ -7,6 +7,9 @@ toc_sticky: true
 toc: true
 ---
 
+## Attention
+Attention is an important component of BERT and other transformer models. At a high level, attention tells the model which pieces of input to "pay attention" to when making predictions. At a low level, attention is just a vector of weights over the inputs. Intuitively, you might expect that the model might "attend" to the words like "best" and "favorite" when doing sentiment analysis (though these attention decisions are often much less intuitive). You can read more about attention in this great [tutorial](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1).
+
 ## Fine-Tune
 BERT comes "pre-trained" on a large dataset of English language texts — namely, the entirety of English-language Wikipedia and a corpus of books. However, if you want to improve and tweak BERT to perform better on *specific kinds of texts*, you can "fine-tune" the model.
 
@@ -37,9 +40,9 @@ NLP tasks are formulated either explicitly or implicitly as competitions. For ex
 
 
 ## Transformers
-Transformers are a class of neural network models that are very effective for natural language processing. The Transformer architecture was first introduced in Vaswani et. al's 2017 paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762).
+Transformers are a class of neural network models that are very effective for natural language processing. The Ttansformer architecture was first introduced in Vaswani et. al's 2017 paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762). Importantly, transformers process all the inputs simultaneously (rather than sequentially, like in LSTMs) and are great at parallelization (breaking up our task into parallel pieces), allowing us to process more data more quickly.
 
-BERT (Bidirectional Encoder Representations from **Transformers**) builds upon the Transformer architecture. Additionally, HuggingFace's Python library is called [Transformers](https://huggingface.co/transformers/) because it enables you to work with dozens of models that use Transformer architecture, such as BERT, RoBERTa, and GPT-2.
+BERT (Bidirectional Encoder Representations from **Transformers**) builds upon the transformer architecture. Additionally, HuggingFace's Python library is called [Transformers](https://huggingface.co/transformers/) because it enables you to work with dozens of models that use transformer architecture, such as BERT, RoBERTa, and GPT-2.
 
 ## Token
 Tokenization is the process of splitting text into smaller units. A token is an individual unit of text, often a word. However, when working with BERT, tokens will consist of words as well as "word pieces" and "special tokens."
