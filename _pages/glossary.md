@@ -40,7 +40,7 @@ NLP tasks are formulated either explicitly or implicitly as competitions. For ex
 
 
 ## Transformers
-Transformers are a class of neural network models that are very effective for natural language processing. The Ttansformer architecture was first introduced in Vaswani et. al's 2017 paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762). Importantly, transformers process all the inputs simultaneously (rather than sequentially, like in LSTMs) and are great at parallelization (breaking up our task into parallel pieces), allowing us to process more data more quickly.
+Transformers are a class of neural network models that are very effective for natural language processing. The transformer architecture was first introduced in Vaswani et. al's 2017 paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762). Importantly, transformers process all the inputs simultaneously (rather than sequentially, like in LSTMs) and are great at parallelization (breaking up our task into parallel pieces), allowing us to process more data more quickly.
 
 BERT (Bidirectional Encoder Representations from **Transformers**) builds upon the transformer architecture. Additionally, HuggingFace's Python library is called [Transformers](https://huggingface.co/transformers/) because it enables you to work with dozens of models that use transformer architecture, such as BERT, RoBERTa, and GPT-2.
 
