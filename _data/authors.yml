@@ -14,3 +14,18 @@ Melanie Walsh:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mellymeldubs"
+
+Maria Antoniak:
+  name        : "Maria Antoniak"
+  bio         : "PhD Candidate in Information Science at Cornell"
+  avatar      : "/assets/images/Maria-Antoniak-Bio-Photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:maa343@cornell.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://maria-antoniak.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/maria_antoniak"

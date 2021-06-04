@@ -1,13 +1,11 @@
 ---
-title: "Colab Tips"
+title: "Google Colab Notebook Tips"
 categories:
-  - Introductions
+  - Quick Tips
 tags:
-  - update
+  - Colab Notebooks
 author: Maria Antoniak
 ---
-
-# Colab Tips
 
 Here are some tips for running BERT in a Google Colab notebook. If you run into strange error messages, if your model takes forever to train, or if your notebook keeps crashing, you should check make sure you're following each of these tips!
 
