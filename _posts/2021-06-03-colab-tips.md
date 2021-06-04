@@ -7,10 +7,9 @@ tags:
 author: Maria Antoniak
 ---
 
-
 # Colab Tips
 
-Some tips for running BERT in Colab. If you run into strange error messages, your model takes forever to train, or your notebook keeps crashing, check each of these!
+Here are some tips for running BERT in a Google Colab notebook. If you run into strange error messages, if your model takes forever to train, or if your notebook keeps crashing, you should check make sure you're following each of these tips!
 
 * When preparing your data, you must use a tokenizer that matches your pre-trained model (cased vs uncased, BERT vs DistilBERT, sequential vs model, etc.).
 * Re-load / re-initialize models before re-fine-tuning with different parameters.
