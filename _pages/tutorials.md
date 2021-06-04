@@ -17,6 +17,6 @@ In this example, we look for words that have a similar vector to a query word fr
 ## Classification
 
 "Training and Fine-Tuning BERT for Classification: Classfying Goodreads Reviews By Book Genre"  
-[[Colab Notebook]](https://colab.research.google.com/drive/1tZo9U-CQ0HqalV9UrO-2UPc5zbWOEaKS?usp=sharing)
+[[Colab Notebook]](https://colab.research.google.com/drive/19jDqa5D5XfxPU6NQef17BC07xQdRnaKU?usp=sharing)
 
 This notebook demonstrate how users can train and fine-tune a BERT model for classification with the popular HuggingFace `transformers` Python library. We fine-tune a BERT model on Goodreads reviews from the [UCSD Book Graph](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/reviews?authuser=0) with the goal of predicting the genre of the book being reviewed.
