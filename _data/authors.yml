@@ -18,7 +18,7 @@ Melanie Walsh:
 Maria Antoniak:
   name        : "Maria Antoniak"
   bio         : "PhD Candidate in Information Science at Cornell"
-  avatar      : "/assets/images/Maria-Antoniak-Bio-Photo.jpg"
+  avatar      : "/assets/images/Maria-Antoniak-Bio-Photo.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
