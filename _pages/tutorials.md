@@ -15,7 +15,7 @@ This notebook demonstrates how to use a pre-trained BERT model with the popular 
 In this example, we look for words that have a similar vector to a query word from a collection of poems. The results are illustrative of what BERT vectors represent, but also of the limitations of the tokenization scheme that it uses.
 
 "Measuring Word Similarity with BERT (Spanish Language Sonnets)"
-[Coming Soon!] [[Demo with Results Only](https://colab.research.google.com/drive/192YOj8N9isRsEvOQwaI2WZ3pRSlUgAYb?usp=sharing)]
+[Full Colab Notebook Coming Soon!] [[Demo with Results Only](https://colab.research.google.com/drive/192YOj8N9isRsEvOQwaI2WZ3pRSlUgAYb?usp=sharing)]
 
 ## Classification
 
