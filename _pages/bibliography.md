@@ -33,6 +33,15 @@ If you'd like to add to the bibliography, you can do so in [this Dropbox documen
 
     - *Helpful but very technical for a humanities audience* 
 
+# Risks & Ethical Concerns
+
+- [“On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜,”](https://dl.acm.org/doi/10.1145/3442188.3445922) Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell
+    - *This paper discusses the risks and ethical concerns of large language models like BERT, including biased and poorly documented training data as well as financial and environmental costs*
+
+- [**“Extracting Data From Large Language Models,”**](https://arxiv.org/pdf/2012.07805.pdf) Nicholas Carlini, et al, December 2020.
+
+- [**“Privacy Considerations in Large Language Models”**](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html) (Blog post), Nicholas Carlini, December 2020.
+
 # Applied Humanities
 
 -  [**“Do**](https://tedunderwood.com/2019/07/15/do-humanists-need-bert/10)[ **Humanists Need BERT?, “**](https://tedunderwood.com/2019/07/15/do-humanists-need-bert/10) Ted Underwood, July 2019. 
@@ -72,12 +81,6 @@ If you'd like to add to the bibliography, you can do so in [this Dropbox documen
     - [**HuggingFace BERT model**](https://huggingface.co/transformers/model_doc/bert.html)
 
 - [**AllenNLP Demo**](https://demo.allennlp.org/reading-comprehension) 
-
-# Ethics
-
-- [**“Extracting Data From Large Language Models,”**](https://arxiv.org/pdf/2012.07805.pdf) Nicholas Carlini, et al, December 2020.
-
-- [**“Privacy Considerations in Large Language Models”**](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html) (Blog post), Nicholas Carlini, December 2020.
 
 # Educational Resources
 

@@ -14,6 +14,8 @@ layout: single
 
 **Hosted by David Mimno, Melanie Walsh, and Maria Antoniak**
 
+[Workshop Agenda and Important Links](https://docs.google.com/document/d/1FreCUwtZVsekEvSwIQMh-G7N4GPQFHsLeXhCXzXT1xY/edit?usp=sharing)
+
 *You can register for the [Zoom workshop here](https://cornell.zoom.us/meeting/register/tJ0kd-6trTMuGdQQBOa4mLM7_8WrOzZawwLE)*
 
 In the last three years, natural language processing researchers have been abuzz about a state-of-the-art method called BERT...

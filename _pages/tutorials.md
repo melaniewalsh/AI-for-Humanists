@@ -7,14 +7,16 @@ Below you can find code tutorials for working with BERT and the HuggingFace Libr
 
 ## Word Similarity
 
-"Measuring Word Similarity with BERT (English Language Public Domain Poems)"  
+"Measuring Word Similarity with BERT  
+(English Language Public Domain Poems)"  
 [[Full Colab Notebook]](https://colab.research.google.com/drive/1r_eoi8CMea_a3YjWC1M4EmTqKMGVMbzQ?usp=sharing) [[Demo with Results Only](https://colab.research.google.com/drive/1DjtrD_MMW_Ezto0Q4zUvjT0IxKZg-rIt?usp=sharing)]
 
 This notebook demonstrates how to use a pre-trained BERT model with the popular HuggingFace `transformers` Python library.
 
 In this example, we look for words that have a similar vector to a query word from a collection of poems. The results are illustrative of what BERT vectors represent, but also of the limitations of the tokenization scheme that it uses.
 
-"Measuring Word Similarity with BERT (Spanish Language Sonnets)"
+"Measuring Word Similarity with BERT  
+(Spanish Language Sonnets)"   
 [Full Colab Notebook Coming Soon!] [[Demo with Results Only](https://colab.research.google.com/drive/192YOj8N9isRsEvOQwaI2WZ3pRSlUgAYb?usp=sharing)]
 
 ## Classification
