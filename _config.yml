@@ -21,7 +21,7 @@ github_username: melaniewalsh/BERT-4-Humanists
 minimal_mistakes_skin: dark
 search: true
 logo: "/assets/images/BERT-tiny-logo-color.png"
-baseurl: "/BERT-for-Humanists"
+url: "http://www.bertforhumanists.org/"
 
 teaser: "/assets/images/BERT-logo-social.png"
 og_image: "/assets/images/BERT-logo-social.png"
