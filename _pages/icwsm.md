@@ -12,6 +12,8 @@ layout: single
 
 _BERT for Humanists & Social Scientists: Applying Large Language Models to Social Media Data_
 
+We'll be hosting a new version of our tutorial at [ICWSM](https://www.icwsm.org/2022/index.html) on June 6, 2022. 
+
 Virtual tutorial, Zoom registration coming soon.
 
 **Hosted by Maria Antoniak, Melanie Walsh, David Mimno, and Matthew Wilkens**
@@ -26,4 +28,22 @@ Participants will gain hands-on experience with downloading and setting up a pre
 ## Materials
 
 An internet connection and a web browser.
+
+
+## Schedule
+
+2 hours total
+- 30 minutes lecture 
+- 20 minutes coding together in a collaborative notebook
+- 10 minutes break
+- 20 minutes lecture 
+- 30 minutes coding together in a collaborative notebook
+- 10 minutes questions
+
+
+## Target Audience
+
+The target audience for this tutorial includes social scientists and scholars studying social media who are comfortable programming and perhaps have some familiarity with machine learning but who have not yet had the opportunity to use large language models like BERT. 
+
+
 
