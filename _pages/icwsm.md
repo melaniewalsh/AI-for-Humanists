@@ -12,12 +12,12 @@ layout: single
 
 _BERT for Social Sciences & Humanities: Applying Large Language Models to Social Media Data_
 
-We'll be hosting a new version of our tutorial at [ICWSM](https://www.icwsm.org/2022/index.html), both live and virtually. 
+Join us for a new version of our tutorial at [ICWSM](https://www.icwsm.org/2022/index.html), either in person or virtually!
 
 June 6th, 2022  
 [Register Here](https://www.icwsm.org/2022/index.html/#registration)  
 
-**Hosted by Maria Antoniak, Melanie Walsh, David Mimno, and Matthew Wilkens**
+Hosted by [Maria Antoniak](https://maria-antoniak.github.io/), [Melanie Walsh](https://ischool.uw.edu/people/faculty/profile/melwalsh), [David Mimno](https://mimno.infosci.cornell.edu/), and [Matthew Wilkens](https://mattwilkens.com/)
 
 
 ## Description
