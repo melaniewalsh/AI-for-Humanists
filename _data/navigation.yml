@@ -9,6 +9,8 @@ main:
     url: /tutorials/
   - title: "Workshop"
     url: /workshop/
+  - title: "ICWSM"
+    url: /icwsm/
   - title: "People"
     url: /people/
 
