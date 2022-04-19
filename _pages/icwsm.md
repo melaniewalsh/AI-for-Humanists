@@ -10,13 +10,15 @@ layout: single
 
 # Tutorial at ICWSM 2022
 
-_BERT for Humanists & Social Scientists: Applying Large Language Models to Social Media Data_
+_BERT for Social Sciences & Humanities: Applying Large Language Models to Social Media Data_
 
-We'll be hosting a new version of our tutorial at [ICWSM](https://www.icwsm.org/2022/index.html) on June 6, 2022. 
+We'll be hosting a new version of our tutorial at [ICWSM](https://www.icwsm.org/2022/index.html), both live and virtually. 
 
-Virtual tutorial, Zoom registration coming soon.
+June 6th, 2022  
+[Register Here](https://www.icwsm.org/2022/index.html/#registration)  
 
 **Hosted by Maria Antoniak, Melanie Walsh, David Mimno, and Matthew Wilkens**
+
 
 ## Description
 
