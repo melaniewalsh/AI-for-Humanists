@@ -10,7 +10,8 @@ layout: single
 
 # Tutorial at ICWSM 2022
 
-_BERT for Social Sciences & Humanities: Applying Large Language Models to Social Media Data_
+**BERT for Social Sciences & Humanities**  
+Applying Large Language Models to Social Media Data
 
 Join us for a new version of our tutorial at [ICWSM](https://www.icwsm.org/2022/index.html), either in person or virtually!
 
