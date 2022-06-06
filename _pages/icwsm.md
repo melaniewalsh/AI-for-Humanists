@@ -22,9 +22,12 @@ Hosted by [Maria Antoniak](https://maria-antoniak.github.io/), [Melanie Walsh](h
 
 ## Materials
 
-Slides: [https://bit.ly/icwsm-bert-slides](https://bit.ly/icwsm-bert-slides). 
+Slides: [https://bit.ly/icwsm-bert-slides](https://bit.ly/icwsm-bert-slides)   
+
 Word Similarity Notebook: [https://bit.ly/icwsm-bert-similarity](https://bit.ly/icwsm-bert-similarity)   
+
 Classification Notebook: [https://bit.ly/icwsm-bert-classify](https://bit.ly/icwsm-bert-classify)    
+
 
 ## Description
 
