@@ -20,6 +20,11 @@ Join us for a new version of our tutorial at [ICWSM](https://www.icwsm.org/2022/
 
 Hosted by [Maria Antoniak](https://maria-antoniak.github.io/), [Melanie Walsh](https://ischool.uw.edu/people/faculty/profile/melwalsh), [David Mimno](https://mimno.infosci.cornell.edu/), and [Matthew Wilkens](https://mattwilkens.com/)
 
+## Materials
+
+Slides: [https://bit.ly/icwsm-bert-slides](https://bit.ly/icwsm-bert-slides). 
+Word Similarity Notebook: [https://bit.ly/icwsm-bert-similarity](https://bit.ly/icwsm-bert-similarity)   
+Classification Notebook: [https://bit.ly/icwsm-bert-classify](https://bit.ly/icwsm-bert-classify)    
 
 ## Description
 
