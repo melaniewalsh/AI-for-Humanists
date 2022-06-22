@@ -22,6 +22,11 @@ minimal_mistakes_skin: dark
 search: true
 logo: "/assets/images/BERT-tiny-logo-color.png"
 url: "http://www.bertforhumanists.org/"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-HDVDJWCSEW"
+    anonymize_ip: false # default
 
 teaser: "/assets/images/BERT-logo-social.png"
 og_image: "/assets/images/BERT-logo-social.png"
