@@ -5,9 +5,10 @@ title: ""
 
 # Project Team
 
-- Project Director, [David Mimno](https://mimno.infosci.cornell.edu/), Associate Professor, Information Science, Cornell University
-- Co-Project Director, [Melanie Walsh](https://melaniewalsh.org/), Postdoctoral Associate, Information Science, Cornell University
-- Lead Developer, [Maria Antoniak](https://maria-antoniak.github.io/), PhD Candidate, Information Science, Cornell University
+- Project Director, [Matt Wilkens](https://mattwilkens.com/about/), Associate Professor, Information Science, Cornell University
+- Co-Project Director, [David Mimno](https://mimno.infosci.cornell.edu/), Associate Professor, Information Science, Cornell University
+- Co-Project Director, [Melanie Walsh](https://melaniewalsh.org/), Assistant Teaching Professor, Information School, University of Washington
+- Lead Developer, [Rosamond Thalken](https://rosamondthalken.com/), PhD Candidate, Information Science, Cornell University
 
 ## Advisory Board
 
@@ -25,22 +26,14 @@ title: ""
 
 - Lucy Li, PhD student, School of Information, UC Berkeley
 
-- Matt Sims, Postdoctoral Scholar, School of Information, UC Berkeley
-
 - Ted Underwood, Professor, School of Information Sciences and English, University of Illinois, Urbana-Champaign
+
+- Allison Parrish, Assistant Arts Professor, New York University
 
 - Hongsu Henry Wang,  Research Fellow, Institute for Quantitative Social Science, Harvard University
 
 - Richard Wicentowski, Professor, Computer Science, Swarthmore College
 
-- Matt Wilkens, Associate Professor, Information Science, Cornell University
-
 - Liu Zhou, Peking University
 
-
-
-
-
-
-
-
+- Maria Antoniak, Allen Institute for AI

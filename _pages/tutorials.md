@@ -1,6 +1,6 @@
 ---
 permalink: /tutorials/
-title: "Tutorials"
+title: "Code Tutorials"
 ---
 
 Below you can find code tutorials for working with BERT and the HuggingFace Library.

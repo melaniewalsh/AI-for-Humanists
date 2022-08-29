@@ -3,22 +3,18 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-title: BERT for Humanists
+title: The BERT for Humanists Project
 ---
-In the past three years, natural language processing research has been revolutionized by a new technology: contextual embeddings such as ELMo, GPT-2, and especially [**BERT**](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html).
+
+In the last several years, natural language processing research has been revolutionized by a new technology known as **large language models**, or LLMs.
+
+Beginning with the model called BERT in 2018, these state-of-the-art methods can understand human language significantly better than previous methods, and they now serve as the foundation for a wide variety of everyday tasks — from grammar checking to autocomplete, from translation to speech-to-text.
 
 <img width=500 src="assets/images/BERT-logo-small-transparent-splash.png">
 
- These state-of-the-art methods can understand human language significantly better than previous methods. For example, BERT can disambiguate between multivalent words — *<b>bank</b> accounts* and *river <b>bank</b>* — with never-before-seen levels of accuracy.
+The BERT for Humanists project is developing resources to inform, empower, and inspire humanities scholars to use LLMs in their disciplines in creative new ways. We seek to provide an intellectual framework for understanding and evaluating these new computational language technologies, so that humanists may be positioned to make use of — and to critique, as appropriate — the advances that will inevitably supplant BERT, in particular, and large language models, in general.
 
-What impact might BERT-like models have in the field of the digital humanities? What impact might digital humanists have on our understanding and application of BERT-like methods? 
-
-The **BERT for Humanists** project is developing resources to help answer these questions and enable DH scholars to explore how BERT-like models can be used in their research and teaching. Find an [annotated bibliography](bibliography) of research papers and tools, a [glossary](glossary) of relevant terms, code [tutorials](tutorials), and information about our virtual [workshop](workshops) in June 2021.
-
-<img width=500 src="https://www.neh.gov/sites/default/files/inline-files/NEH-Preferred-Seal-Transparent820.png"/> 
-
-The BERT for Humanists project is generously supported by the National Endowment for the Humanities.
+The BERT for Humanists project was generously supported by the National Endowment for the Humanities in 2021. The project is ongoing.
 
 
-
-
+<img width=500 src="https://www.neh.gov/sites/default/files/inline-files/NEH-Preferred-Seal-Transparent820.png"/>

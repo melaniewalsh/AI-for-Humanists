@@ -5,12 +5,9 @@ main:
     url: /bibliography/
   - title: "Glossary"
     url: /glossary/
-  - title: "Tutorials"
+  - title: "Code Tutorials"
     url: /tutorials/
-  - title: "Workshop"
-    url: /workshop/
-  - title: "ICWSM"
-    url: /icwsm/
+  - title: "Workshops"
+    url: /workshops/
   - title: "People"
     url: /people/
-
