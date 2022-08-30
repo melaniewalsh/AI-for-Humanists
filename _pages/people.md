@@ -5,14 +5,16 @@ title: ""
 
 # Project Team
 
-- Project Director, [Matt Wilkens](https://mattwilkens.com/about/), Associate Professor, Information Science, Cornell University
+- Co-Project Director, [Matt Wilkens](https://mattwilkens.com/about/), Associate Professor, Information Science, Cornell University
 - Co-Project Director, [David Mimno](https://mimno.infosci.cornell.edu/), Associate Professor, Information Science, Cornell University
 - Co-Project Director, [Melanie Walsh](https://melaniewalsh.org/), Assistant Teaching Professor, Information School, University of Washington
 - Lead Developer, [Rosamond Thalken](https://rosamondthalken.com/), PhD Candidate, Information Science, Cornell University
 
 ## Advisory Board
 
-- David Bamman, Assistant Professor, School of Information, UC Berkeley
+- Maria Antoniak, Young Investigator, Allen Institute for AI
+
+- David Bamman, Associate Professor, School of Information, UC Berkeley
 
 - Peter Bol, Professor,  East Asian Languages and Civilizations, Harvard University
 
@@ -35,5 +37,3 @@ title: ""
 - Richard Wicentowski, Professor, Computer Science, Swarthmore College
 
 - Liu Zhou, Peking University
-
-- Maria Antoniak, Allen Institute for AI
