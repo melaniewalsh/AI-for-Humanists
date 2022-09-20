@@ -41,4 +41,4 @@ title: ""
 
 ## Former Team Members
 
-- Maria Antoniak, Young Investigator, Allen Institute for AI
+- Maria Antoniak (2020-2022)
