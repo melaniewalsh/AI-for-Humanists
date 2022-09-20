@@ -38,8 +38,3 @@ title: ""
 - Richard Wicentowski, Professor, Computer Science, Swarthmore College
 
 - Liu Zhou, Peking University
-
-
-## Suggested Project Citation
-
-Maria Antoniak David Mimno, Melanie Walsh, Matthew Wilkens, *BERT for Humanists* (2022), http://www.bertforhumanists.org/.
