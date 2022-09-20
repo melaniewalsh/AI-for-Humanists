@@ -10,6 +10,7 @@ title: ""
 - Co-Project Director, [Melanie Walsh](https://melaniewalsh.org/), Assistant Teaching Professor, Information School, University of Washington
 - Lead Developer, [Rosamond Thalken](https://rosamondthalken.com/), PhD Candidate, Information Science, Cornell University
 
+
 ## Advisory Board
 
 - Maria Antoniak, Young Investigator, Allen Institute for AI
@@ -37,3 +38,8 @@ title: ""
 - Richard Wicentowski, Professor, Computer Science, Swarthmore College
 
 - Liu Zhou, Peking University
+
+
+## Suggested Project Citation
+
+Maria Antoniak David Mimno, Melanie Walsh, Matthew Wilkens, *BERT for Humanists* (2022), http://www.bertforhumanists.org/.
