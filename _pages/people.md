@@ -41,4 +41,4 @@ title: ""
 
 ## Former Team Members
 
-- Maria Antoniak (2020-2022)
+- [Maria Antoniak](https://maria-antoniak.github.io/) (2020-2022)
