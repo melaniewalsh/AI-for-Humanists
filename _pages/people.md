@@ -38,3 +38,7 @@ title: ""
 - Richard Wicentowski, Professor, Computer Science, Swarthmore College
 
 - Liu Zhou, Peking University
+
+## Former Team Members
+
+- Maria Antoniak, Young Investigator, Allen Institute for AI
