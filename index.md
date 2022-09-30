@@ -8,7 +8,7 @@ title: The BERT for Humanists Project
 
 In the last several years, natural language processing research has been revolutionized by a new technology known as **large language models**, or LLMs.
 
-Beginning with the model called BERT in 2018, these state-of-the-art methods can represent human language significantly better than previous methods, and they now serve as the foundation for a wide variety of everyday tasks — from grammar checking to autocomplete, from translation to speech-to-text.
+Beginning with the model called BERT in 2018, these state-of-the-art methods can represent human language significantly better than previous methods. They now serve as the foundation for a wide variety of everyday tasks — from grammar checking to autocomplete, from translation to speech-to-text.
 
 <img width=500 src="assets/images/BERT-logo-small-transparent-splash.png">
 
