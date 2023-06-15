@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BERT for Humanists
+title: AI for Humanists
 email:
-description:  The BERT for Humanists project is developing resources to enable DH scholars to explore how BERT-like models can be used in their research and teaching. Find an annotated bibliography of research papers and tools, a glossary of relevant terms, code tutorials, and information about our virtual workshop in June 2021.
+description:  The AI for Humanists project is developing resources to enable DH scholars to explore how large language models and AI technologies can be used in their research and teaching. Find an annotated bibliography of research papers and tools, a glossary of relevant terms, code tutorials, and information about our workshops.
 #twitter_username: username
 github_username: melaniewalsh/BERT-4-Humanists
 minimal_mistakes_skin: dark
