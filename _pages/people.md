@@ -7,7 +7,7 @@ title: ""
 
 - Co-Project Director, [Matt Wilkens](https://mattwilkens.com/about/), Associate Professor, Information Science, Cornell University
 - Co-Project Director, [David Mimno](https://mimno.infosci.cornell.edu/), Associate Professor, Information Science, Cornell University
-- Co-Project Director, [Melanie Walsh](https://melaniewalsh.org/), Assistant Teaching Professor, Information School, University of Washington
+- Co-Project Director, [Melanie Walsh](https://melaniewalsh.org/), Assistant Professor, Information School, University of Washington
 - Lead Developer, [Rosamond Thalken](https://rosamondthalken.com/), PhD Candidate, Information Science, Cornell University
 
 
@@ -28,6 +28,8 @@ title: ""
 - Lauren Klein, Associate Professor, English and Quantitative Theory and Methods, Emory University
 
 - Lucy Li, PhD student, School of Information, UC Berkeley
+
+- Meredith Martin, Associate Professor, English Department, Princeton University
 
 - Ted Underwood, Professor, School of Information Sciences and English, University of Illinois, Urbana-Champaign
 
