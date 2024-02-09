@@ -16,4 +16,4 @@ The **AI for Humanists** project (formerly the BERT for Humanists project) is de
 
 The AI for Humanists project was generously supported by the National Endowment for the Humanities in 2021 and 2023. The project is ongoing.
 
-<img width=400 src="https://www.neh.gov/sites/default/files/inline-files/NEH-Preferred-Seal-Transparent820.png"/>{: .align-center}
+<img width=500 src="https://www.neh.gov/sites/default/files/inline-files/NEH-Preferred-Seal-Transparent820.png"/>{: .align-center}
