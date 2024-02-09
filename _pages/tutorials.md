@@ -17,8 +17,7 @@ Below you can find code tutorials for working with large language models.
 
 This notebook demonstrates how you can use LLMs to explore which texts in a dataset are similar to each other. Examples include narrative vs. non-narrative texts, historial poetry, and ChatGPT-generated poetry.
 
-### * Measuring Word Similarity with BERT  
-(English Language Public Domain Poems)"  
+### * Measuring Word Similarity with BERT   
 [[Full Colab Notebook]](https://colab.research.google.com/drive/1r_eoi8CMea_a3YjWC1M4EmTqKMGVMbzQ?usp=sharing) [[Demo with Results Only](https://colab.research.google.com/drive/1DjtrD_MMW_Ezto0Q4zUvjT0IxKZg-rIt?usp=sharing)]
 
 This notebook demonstrates how to use a pre-trained BERT model with the popular HuggingFace `transformers` Python library.
