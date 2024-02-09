@@ -8,17 +8,17 @@ toc: true
 ---
 
 ## Attention
-Attention is an important component of BERT and other transformer models. At a high level, attention tells the model which pieces of input to "pay attention to" when making predictions. At a low level, attention is just a vector of weights over the inputs. Intuitively, you might expect that the model might "attend" to the words like "best" and "favorite" when doing sentiment analysis (though these attention decisions are often much less intuitive). You can read more about attention in this great [tutorial](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1).
+Attention is an important component of GPT, BERT, and other transformer models. At a high level, attention tells the model which pieces of input to "pay attention to" when making predictions. At a low level, attention is just a vector of weights over the inputs. Intuitively, you might expect that the model might "attend" to the words like "best" and "favorite" when doing sentiment analysis (though these attention decisions are often much less intuitive). You can read more about attention in this great [tutorial](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1).
 
 ## Fine-Tune
-BERT comes "pre-trained" on a large dataset of English language texts — namely, the entirety of English-language Wikipedia and a corpus of books. However, if you want to improve and tweak BERT to perform better on *specific kinds of texts*, you can "fine-tune" the model.
+LLMs are "pre-trained" on large datasets of texts, such as Wikipedia, books, StackOverflow, and other texts from the internet. However, if you want to improve and tweak language models to perform better on *specific kinds of texts*, you can "fine-tune" the model.
 
 Fine-tuning is the process of training a pre-trained model with additional data so that it can perform better in a certain context. For example, we fine-tune a DistilBERT model with Goodreads reviews in one of our [code tutorials](../tutorials/#classification).
 
 ## GPU
 A GPU, or “graphics processing unit,” is a specialized electronic circuit for computer hardware.  Because GPUs allows for parallel processing, they are often used for intensive graphics rendering tasks, like gaming, video editing, and, increasingly, machine learning.
 
-Working with the full-scale version of BERT typically requires access to a GPU. However, most Apple computers do not include GPUs. To use BERT on a computer without a GPU, researchers will typically either need to use a smaller BERT model, such as DistilBERT, or get access to a GPU through Google Colab (where they are offered for free) or through a computing cluster.
+Working with the full-scale version of an LLM typically requires access to a GPU. However, most Apple computers do not include GPUs. To use LLMs on a computer without a GPU, researchers will typically either need to use a smaller model, such as DistilBERT, or get access to a GPU through Google Colab (where they are offered for free) or through a computing cluster.
 
 
 ## Label
@@ -42,10 +42,10 @@ NLP tasks are formulated either explicitly or implicitly as competitions. For ex
 ## Transformers
 Transformers are a class of neural network models that are very effective for natural language processing. The transformer architecture was first introduced in Vaswani et. al's 2017 paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762). Importantly, transformers process all the inputs simultaneously (rather than sequentially, like in LSTMs) and are great at parallelization (breaking up our task into parallel pieces), allowing us to process more data more quickly.
 
-BERT (Bidirectional Encoder Representations from **Transformers**) builds upon the transformer architecture. Additionally, HuggingFace's Python library is called [Transformers](https://huggingface.co/transformers/) because it enables you to work with dozens of models that use transformer architecture, such as BERT, RoBERTa, and GPT-2.
+The GPT models build  upon the transformer architecture, as does BERT (Bidirectional Encoder Representations from **Transformers**) and others. Additionally, HuggingFace's Python library is called [Transformers](https://huggingface.co/transformers/) because it enables you to work with dozens of models that use transformer architecture, such as GPT-2, BERT, and RoBERTa.
 
 ## Token
-Tokenization is the process of splitting text into smaller units. A token is an individual unit of text, often a word. However, when working with BERT, tokens will consist of words as well as "word pieces" and "special tokens."
+Tokenization is the process of splitting text into smaller units. A token is an individual unit of text, often a word. However, when working with LLMs, tokens will often consist of words as well as "word pieces" and "special tokens."
 
 For example, the sentence *"Mrs. Dalloway said she would buy the flowers herself"* might be split into **14** individual tokens:
 
@@ -63,12 +63,10 @@ The tokens include three separate "word pieces" for the word "Dalloway" as well 
 Text can be automatically tokenized with HuggingFace modules such as [`BERTTokenizerFast`](https://huggingface.co/transformers/model_doc/bert.html#berttokenizerfast).
 
 ## Type
-A type is a unique string representation of a word. For example, the sentence *"BERT is big and is also useful"* contains **six** types.
+A type is a unique string representation of a word. For example, the sentence *"GPT is big and is also useful"* contains **six** types.
 
 ## Vector
 A vector is a list of numbers that represents a word or sentence.
 
-You might think of a vector as a list of numbered coordinates that maps a word/sentence to a specific point in space, where points that are closer together are more similar to each other (as our logo illustrates):
-
-<img width=400 src="../assets/images/BERT-logo-small-transparent-splash.png">
+You might think of a vector as a list of numbered coordinates that maps a word/sentence to a specific point in space, where points that are closer together are more similar to each other.
 
