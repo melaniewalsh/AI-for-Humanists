@@ -5,10 +5,13 @@ title: ""
 
 # Project Team
 
-- Co-Project Director, [Matt Wilkens](https://mattwilkens.com/about/), Associate Professor, Information Science, Cornell University
-- Co-Project Director, [David Mimno](https://mimno.infosci.cornell.edu/), Associate Professor, Information Science, Cornell University
-- Co-Project Director, [Melanie Walsh](https://melaniewalsh.org/), Assistant Professor, Information School, University of Washington
-- Lead Developer, [Rosamond Thalken](https://rosamondthalken.com/), PhD Candidate, Information Science, Cornell University
+Project Directors:
+- [Matt Wilkens](https://mattwilkens.com/about/), Associate Professor, Information Science, Cornell University
+- [David Mimno](https://mimno.infosci.cornell.edu/), Associate Professor, Information Science, Cornell University
+- [Melanie Walsh](https://melaniewalsh.org/), Assistant Professor, Information School, University of Washington
+
+Lead Developer:
+- [Rosamond Thalken](https://rosamondthalken.com/), PhD Candidate, Information Science, Cornell University
 
 
 ## Advisory Board
