@@ -28,8 +28,8 @@ analytics:
     tracking_id: "G-HDVDJWCSEW"
     anonymize_ip: false # default
 
-teaser: "/assets/images/BERT-logo-social.png"
-og_image: "/assets/images/BERT-logo-social.png"
+teaser: "/assets/images/AI-for-Humanists-logo-tahoma-v7-no-outline.png"
+og_image: "/assets/images/AI-for-Humanists-logo-tahoma-v7-no-outline.png"
 
 # Build settings
 markdown: kramdown
