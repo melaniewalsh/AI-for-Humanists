@@ -45,7 +45,7 @@ In this example, we look for words that have a similar vector to a query word fr
 
 📔 [[Colab Notebook]](https://colab.research.google.com/drive/1QIG-3bIo1BHVWWlS22-1XItlZRrGSMNe?usp=sharing)
 
-This [code notebook]((https://colab.research.google.com/drive/1QIG-3bIo1BHVWWlS22-1XItlZRrGSMNe?usp=sharing)) demonstrate how users can set up a **zero-shot classification** task with an LLM and how they can evaluate different **prompting** strategies. With the current batch of powerful language models, this zero-short paradigm should be the first thing to try when evaluating a new task.
+This [code notebook](https://colab.research.google.com/drive/1QIG-3bIo1BHVWWlS22-1XItlZRrGSMNe?usp=sharing) demonstrate how users can set up a **zero-shot classification** task with an LLM and how they can evaluate different **prompting** strategies. With the current batch of powerful language models, this zero-short paradigm should be the first thing to try when evaluating a new task.
 
 In this tutorial, we specifically explore how you can prompt a model to predict the genre of a book based on its Goodreads review and to predict whether a given passage is narrative or non-narrative text. But you should be able to use and modify this workflow for your own text classification needs.
 
