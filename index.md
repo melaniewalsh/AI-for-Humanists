@@ -12,7 +12,7 @@ The **AI for Humanists** project (formerly the BERT for Humanists project) is de
 
 <img width=450 src="assets/images/AI-for-Humanists-logo-tahoma-v7-no-outline.png">{: .align-center}
 
- We seek to provide an intellectual framework for understanding and evaluating LLMs so that humanists may be positioned to make use of — and to critique, as appropriate — these important new computational language technologies.
+ We seek to provide an intellectual framework for understanding and evaluating LLMs so that humanists may be positioned to make use of — and to critique — these important new computational language technologies.
 
 The AI for Humanists project was generously supported by the National Endowment for the Humanities in 2021 and 2023. The project is ongoing.
 
