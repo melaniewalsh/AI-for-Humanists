@@ -10,13 +10,14 @@ Project Directors:
 - [David Mimno](https://mimno.infosci.cornell.edu/), Associate Professor, Information Science, Cornell University
 - [Melanie Walsh](https://melaniewalsh.org/), Assistant Professor, Information School, University of Washington
 
-Lead Developer:
+Team Members:
+- [Maria Antoniak](https://maria-antoniak.github.io/), Young Investigator, Allen Institute for AI
+- [Kiara Liu](https://prod.infosci.cornell.edu/content/liu-1), PhD Student, Cornell University
 - [Rosamond Thalken](https://rosamondthalken.com/), PhD Candidate, Information Science, Cornell University
+- [Greg Yauney](https://gyauney.github.io/), PhD Candidate, Cornell University
 
 
 ## Advisory Board
-
-- Maria Antoniak, Young Investigator, Allen Institute for AI
 
 - David Bamman, Associate Professor, School of Information, UC Berkeley
 
@@ -43,7 +44,3 @@ Lead Developer:
 - Richard Wicentowski, Professor, Computer Science, Swarthmore College
 
 - Liu Zhou, Peking University
-
-## Former Team Members
-
-- [Maria Antoniak](https://maria-antoniak.github.io/) (2020-2022)
