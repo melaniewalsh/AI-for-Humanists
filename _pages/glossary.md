@@ -20,6 +20,21 @@ A GPU, or “graphics processing unit,” is a specialized electronic circuit fo
 
 Working with the full-scale version of an LLM typically requires access to a GPU. However, most Apple computers do not include GPUs. To use LLMs on a computer without a GPU, researchers will typically either need to use a smaller model, such as DistilBERT, or get access to a GPU through Google Colab (where they are offered for free) or through a computing cluster.
 
+## In-context learning
+Sometimes we want a model to do a specific task in a specific way, and we have hundreds to thousands of examples of input-output pairs. In this case we might want to create a custom model by fine-tuning an off-the-shelf model. But language models are now powerful enough that you can do a lot of tasks without any additional training, especially if they have been instruction fine-tuned. The only thing you are affecting is the current *context* window, so this is known as in-context learning. 
+
+In-context learning has two styles. One involves providing one or more examples of input/output pairs in the format you are looking for, followed by an input that you would like the appropriate output for. As an example, you might query "a group of lions is a pride, a group of crows is a murder, a group of owls is a". This is called *few-shot* learning. In this case because I gave two complete input/output examples it is a 2-shot prompt. If I have a large number of animals I want to ask about, I might keep the 2-shot examples constant and substitute each new animal for "owls" in the prompt, then read off the first few words of the output.
+
+A second style involves *describing* the output you want in words rather than providing examples. As an example, "Groups of animals have specific names. Provide the name for a group of owls". Since there are no complete input/output examples, this is called *zero-shot* prompting.
+
+You can also provide instructions *and* examples.
+
+## Instruction fine-tuning
+Language models are initially trained (pre-trained) on documents from the web. When given a query, they will therefore generate whatever typically would come after that text. A question might be followed by another question, rather than a friendly answer. Think about it: how often, in the middle of a web page, does the author suddenly say "Certainly! I can help you with that..."
+
+In order to use a language model as a "chatbot" or a "helpful assistant", they must be further trained (fine-tuned) with specific data that models user/agent interactions. These datasets are often created by LLM developers specifically for this purpose by paying people to write helpful answers, rather than by scraping existing web pages.
+
+Many language models therefore provide "instruction tuned" versions along with base versions. Examples include T5 (base model) and Flan-T5 (instruction tuned), or Llama3-8B and Llama3-8B-Instruct.
 
 ## Label
 To train and test a natural language processing model for a specific [task](#task), you often need labeled data. Labels are categories that are assigned to texts or documents, which indicate the "correct" answer(s) for that task.
