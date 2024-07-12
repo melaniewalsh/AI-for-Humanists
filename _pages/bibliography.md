@@ -44,6 +44,9 @@ If you'd like to add to the bibliography, you can do so in [this Dropbox documen
 
 # Applied Humanities
 
+- [**Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4**](https://aclanthology.org/2023.emnlp-main.453/) Kent Chang, Mackenzie Cramer, Sandeep Soni, David Bamman, EMNLP 2023. [Code](https://github.com/bamman-group/gpt4-books)
+
+
 -  [**“Do**](https://tedunderwood.com/2019/07/15/do-humanists-need-bert/10)[ **Humanists Need BERT?, “**](https://tedunderwood.com/2019/07/15/do-humanists-need-bert/10) Ted Underwood, July 2019. 
 
     - *Overview of BERT and an assessment of its usefulness when applied to sentiment analysis of movie reviews and genre classification of books* 
