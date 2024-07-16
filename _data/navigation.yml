@@ -5,6 +5,8 @@ main:
     url: /bibliography/
   - title: "Glossary"
     url: /glossary/
+  - title: "Guides"
+    url: /guides/
   - title: "Code Tutorials"
     url: /tutorials/
   - title: "Workshops"
