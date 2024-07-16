@@ -1,5 +1,5 @@
 ---
-permalink: /models/
+permalink: /guides/models/
 title: "Models"
 toc_label: " "
 toc_icon: "star"
