@@ -45,6 +45,18 @@ Labels are also used to test the performance of the model. For example, in the c
 
 There can be zero, one, or more labels for each document in a dataset.
 
+## Neural network
+
+A neural network model is a system for transforming an input into an output. While the input or output might be data that looks to us like an image or a sentence, from the perspective of the neural network the input, the output, and every intermediate stage are all represented by *vectors* of numbers. The *network* defines an *architecture*, which specifies the sequence of mathematical operations that are applied to the input and each intermediate stage. 
+
+## Parameter
+
+Many of the operation of a *neural network* involve multiplying elements of a vector by certain numbers. These values are the *parameters*. These numbers define the behavior of the network: what patterns it responds to, and what values it outputs in response.
+
+## Quantization
+
+Quantization is a way of compressing a neural network. AI models are often described in terms of numbers of *parameters*: Llama3 8B has eight billion parameters. These parameters are floating point (decimal) numbers. But what people have found is that the operation of each one of those parameters doesn't need to be very precise. As an analogy: you cou can probably calculate exactly how many minutes old you are, but for most purposes you can specify a range of within a few years. Computers represent floating point numbers with a finite approximation. If we represent 8B parameters with standard 8-byte/64-bit variables, that would take 64GB of storage. But if we only really need to know if a parameter is positive or negative, and maybe "large" or "small", we can get away with as few as 4-bit numbers, taking 4GB. This trick is used especially with local LLM systems like ollama and GPT4All, which use it to enable you to run large models on laptops.
+
 ## Task
 
 If you start reading natural language processing and machine learning research, you'll start to see the word "task" cropping up everywhere. You can think of a task as an objective or assignment that a computer is trying to accomplish.
