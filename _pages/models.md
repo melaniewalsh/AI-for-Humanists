@@ -7,6 +7,10 @@ toc_sticky: true
 toc: true
 ---
 
+The core of modern AI is that you start with a large neural network model that has been trained for a long time on a large data set. Patterns in the real world start to be represented by numeric relationships in the neural network parameters. We can then take these base models and use them for new applications.
+
+The advantage of using pre-trained models is that they are able to deal with complex and ambiguous data because they are able to draw indirectly on millions of other examples. The disadvantage is that the larger the model, the more difficult it can be to access. 
+
 ## Large, Cloud-only models
 
 These models are the most capable, but also the least open and accessible. They are large enough that they can only be run in dedicated data centers.
