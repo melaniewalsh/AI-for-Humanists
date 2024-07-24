@@ -11,6 +11,8 @@ The core of modern AI is that you start with a large neural network model that h
 
 The advantage of using pre-trained models is that they are able to deal with complex and ambiguous data because they are able to draw indirectly on millions of other examples. The disadvantage is that the larger the model, the more difficult it can be to access. 
 
+How should you pick a model? There is an active and competitive market for AI models; many companies are highly motivated to attract attention to their models. Evaluating models is also difficult, because they can be used for so many different uses. You may see quantitative scores on "tasks", and these are informative, but don't assume that metrics like these determine how a model meets your goals. Ultimately, the models within each of the following sections should be roughly comparable.
+
 ## Large, Cloud-only models
 
 These models are the most capable, but also the least open and accessible. They are large enough that they can only be run in dedicated data centers.
