@@ -52,6 +52,10 @@ This is a highly capable model that comes in 8B and 30B parameter models, provid
 
 This family of models from Google is an open-weight version of their Gemini family.
 
+### Florence 2
+
+This is a powerful [multimodal image and text model](https://huggingface.co/microsoft/Florence-2-large/blob/main/sample_inference.ipynb). It has been used for OCR page segmentation and has limited ability to perform OCR itself. It can also be used to identify *and describe* objects in photographic and printed images.
+
 ### Nomic embed
 
 This model, from the developers of GPT4All, is a powerful tool for mapping documents to numeric vector representations.
