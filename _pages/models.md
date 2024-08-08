@@ -82,6 +82,6 @@ The ancestor of ChatGPT from OpenAI. It is the best small model for generating t
 
 ### T5 / mT5 / byT5
 
-These models from Google are encoder-decoder models that balance between encoding text as vectors and generating new text. They are a good option for information extraction tools. The mT5 multilingual model has a more flexible tokenizer than base T5. The byT5 model operates only at the level of individual bytes, so it gets great ability to deal with arbitrary text in exchange for less efficient operation.
+These models from Google are encoder-decoder models that balance between encoding text as vectors and generating new text. They are a good option for information extraction tools. The mT5 multilingual model has a more flexible tokenizer than base T5. The byT5 model operates only at the level of individual bytes, so it gets great ability to deal with arbitrary text in exchange for less efficient operation. The byT5 model has been especially successful for OCR correction because the task requires analyzing character-level patterns. 
 
 

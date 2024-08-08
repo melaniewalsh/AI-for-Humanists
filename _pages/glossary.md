@@ -20,6 +20,16 @@ A GPU, or “graphics processing unit,” is a specialized electronic circuit fo
 
 Working with the full-scale version of an LLM typically requires access to a GPU. However, most Apple computers do not include GPUs. To use LLMs on a computer without a GPU, researchers will typically either need to use a smaller model, such as DistilBERT, or get access to a GPU through Google Colab (where they are offered for free) or through a computing cluster.
 
+## Hallucination
+
+There are several cases where language models can generate irrelevant or incorrect text. Language models represent what text is likely to be said. Especially when they are queried about more infrequent entities or patterns, they can fall back to generating text that seems plausible.
+
+One example is *factual* hallucination, where the model generates text that is relevant and well-formatted but contains errors. For example, in response to a query about a named entity, a model might generate a plausible-sounding but incorrect description. This issue is an area that the bigger LLM developers have been working on: Llama 3.1, for example, refuses to provide a biography of "New England poet Dorothy Dickinson".
+
+Another example is *text* hallucination, where the model generates text that does not have relevance to the query. For example, an OCR correction system should repeat the input text with small modifications to emend character-level errors. But a system may fail by adding additional text rather than sticking to the original. Evans et al. (DH 2024) find that smaller models like byt5 are less likely to hallucinate new text than larger, more powerful models.
+
+A more obvious example is *format* hallucination, where the model falls back to meaningless or irrelevant text. This happens more commonly on smaller models.
+
 ## In-context learning
 Sometimes we want a model to do a specific task in a specific way, and we have hundreds to thousands of examples of input-output pairs. In this case we might want to create a custom model by fine-tuning an off-the-shelf model. But language models are now powerful enough that you can do a lot of tasks without any additional training, especially if they have been instruction fine-tuned. The only thing you are affecting is the current *context* window, so this is known as in-context learning. 
 
