@@ -29,6 +29,12 @@ toc: true
 
 ### Translation
 
+### Speech to text
+
+- **[Careless Whisper: Speech-to-Text Hallucination Harms](https://dl.acm.org/doi/pdf/10.1145/3630106.3658996)** by Allison Koenecke, Anna Seo Gyeong Choi, Katelyn X. Mei, Hilke Schellmann, and Mona Sloane (2024)
+
+    - *This paper explores hallucinations and other errors in one of the largest and most popular speech-to-text systems, OpenAI's Whisper, and, despite the model's overall high performance, finds systematic errors that are likely to disproportionately effect speakers with aphasia.*
+
 ## Adding annotations
 
 ### Classification / coding
@@ -37,7 +43,27 @@ toc: true
 
     - *This paper discusses how to use LLMs effectively for annotating modes of legal reasoning in a corpus of United States Supreme Court Decisions.*
 
-### Named entity identification
+- **[Says Who? Effective Zero-Shot Annotation for Focalization](https://arxiv.org/pdf/2409.11390)** by Rebecca M. M. Hicke, Yuri Bizzoni, Pascale Feldkamp, and Ross Deans Kristensen-McLachlan (2024)
+
+    - *This paper describes how to effective annotate literary texts for focalization in low-resource (compute and annotations) settings. It provides a case study with Stephen King novels to show the use of large scale focalization annotations.*
+
+- **[Sonnet or Not, Bot? Poetry Evaluation for Large Language Models](https://arxiv.org/pdf/2406.18906)** by Melanie Walsh, Anna Preus, and Maria Antoniak (2024)
+
+    - *This paper introduces an evaluation dataset for how well LLMs can recognize different stylistic and structural characteristics of poetry and reports on the performance of several popular LLMs.*
+
+- **[Where Do People Tell Stories Online? Story Detection Across Online Communities](https://maria-antoniak.github.io/resources/2024_ac_where_stories.pdf)** by Maria Antoniak, Joel Mire, Maarten Sap, Elliott Ash, and Andrew Piper (2024)
+
+    - *This paper examines whether narrative can be identified in social media posts using a range of detection methods that include fine-tuned and zero and few-shot prompted LLMs.*
+
+- **[Automate or Assist? The Role of Computational Models in Identifying Gendered Discourse in US Capital Trial Transcripts](https://arxiv.org/pdf/2407.12500)** by Andrea W Wen-Yi, Kathryn Adamson, Nathalie Greenfield, Rachel Goldberg, Sandra Babcock, David Mimno, and Allison Koenecke (2024)
+
+    - *This paper examines the capability of a small, in-domain model (LEGAL-BERT) to annotate for gender bias in US capital trials.*
+
+### Named entity recognition
+
+- **[Recognising Occupational Titles in German Parliamentary Debates](https://aclanthology.org/2024.latechclfl-1.21.pdf)** by Johanna Binnewitt (2023)
+
+    - *This paper compares fine-tuned BERT to dictionary-based methods for extracting occupational titles from German parliamentary debates, finding that the BERT outperforms the dictionary method on recall.*
 
 ### Stylometry
 
@@ -62,4 +88,3 @@ toc: true
 - **[Discovering Differences in the Representation of People using Contextualized Semantic Axes](https://aclanthology.org/2022.emnlp-main.228.pdf)** by Li Lucy, Divya Tadimeti, and David Bamman (2022)
 
     - *This work uses contextual embeddings from BERT to construct semantic axes along which words can be placed and validates that this method can separate instances of the same word type and track how word associations have drifted in several corpora over time.*
-
