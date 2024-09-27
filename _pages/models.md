@@ -23,17 +23,17 @@ These models are the best for uses where you are describing in words the output 
 
 As a cloud-based system, all your information must be processed on a system owned by a large web company. While there is some question about whether a company like OpenAI will ever do anything with that data, if they do decide to, there is nothing you can really do to stop them. It's up to you to decide if you're ok with that.
 
-### ChatGPT 3.5 / GPT 4
+### ChatGPT 3.5 / GPT 4 / GPT o1
 
-These models are provided by OpenAI, and are operated by Microsoft.
+These models are provided by OpenAI, and are operated by Microsoft. The o1 models, introduced in September 2024, are meant to provide more in-depth reasoning capabilities.
 
 ### Claude
 
-Similar to ChatGPT, provided by Anthropic, which has ties to Amazon.
+Similar to ChatGPT, Claude is provided by Anthropic, which has ties to Amazon.
 
 ### Gemini
 
-Similar to ChatGPT, provided by Google.
+Similar to ChatGPT, but provided by Google.
 
 ## Medium, Locally runnable models
 
@@ -68,7 +68,7 @@ They may be better suited towards producing embeddings or serving as the base fo
 
 ### BERT / DistillBERT
 
-The one that started it all! From Google. Less capability for non-English text, and somewhat out of date (2018), but still capable. BERT was only trained to fill in missing words, it cannot generate new text.
+The one that started it all! From Google. Less capability for non-English text, and somewhat out of date (2018), but still capable. BERT was only trained to fill in missing words, so it cannot generate new text.
 
 *Distilled* models are smaller, faster models trained to emulate the output of larger models. DistilBERT is a good base for classifiers.
 
@@ -82,6 +82,6 @@ The ancestor of ChatGPT from OpenAI. It is the best small model for generating t
 
 ### T5 / mT5 / byT5
 
-These models from Google are encoder-decoder models that balance between encoding text as vectors and generating new text. They are a good option for information extraction tools. The mT5 multilingual model has a more flexible tokenizer than base T5. The byT5 model operates only at the level of individual bytes, so it gets great ability to deal with arbitrary text in exchange for less efficient operation. The byT5 model has been especially successful for OCR correction because the task requires analyzing character-level patterns. 
+These models from Google are encoder-decoder models that balance encoding text as vectors and generating new text. They are a good option for information extraction. The mT5 multilingual model has a more flexible tokenizer than base T5. The byT5 model operates only at the level of individual bytes, so it gets great ability to deal with arbitrary text in exchange for less efficient operation. The byT5 model has been especially successful for OCR correction because the task requires analyzing character-level patterns. 
 
 
