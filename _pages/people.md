@@ -13,8 +13,9 @@ Project Directors:
 Team Members:
 - [Maria Antoniak](https://maria-antoniak.github.io/), Young Investigator, Allen Institute for AI
 - [Kiara Liu](https://prod.infosci.cornell.edu/content/liu-1), PhD Student, Cornell University
+- [Rebecca Hicke](https://rmatouschekh.github.io), PhD Student, Cornell University
 - [Rosamond Thalken](https://rosamondthalken.com/), PhD Candidate, Information Science, Cornell University
-- [Greg Yauney](https://gyauney.github.io/), PhD Candidate, Cornell University
+- [Greg Yauney](https://gyauney.github.io/), Postdoc, University of Southern California
 
 
 ## Advisory Board

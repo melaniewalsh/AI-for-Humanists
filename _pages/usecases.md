@@ -61,9 +61,13 @@ toc: true
 
 ### Named entity recognition
 
-- **[Recognising Occupational Titles in German Parliamentary Debates](https://aclanthology.org/2024.latechclfl-1.21.pdf)** by Johanna Binnewitt (2023)
+- **[Recognising Occupational Titles in German Parliamentary Debates](https://aclanthology.org/2024.latechclfl-1.21.pdf)** by Johanna Binnewitt (2024)
 
     - *This paper compares fine-tuned BERT to dictionary-based methods for extracting occupational titles from German parliamentary debates, finding that the BERT outperforms the dictionary method on recall.*
+
+- **[People and Places of the Past - Named Entity Recognition in Swedish Labour Movement Documents from Historical Sources](https://aclanthology.org/2024.latechclfl-1.17.pdf)** by Crina Tudor and Eva Pettersson (2024)
+
+    - *This work compares the ability of several models to perform NER on documents in historical Swedish, a low-resource langauge.*
 
 ### Stylometry
 
