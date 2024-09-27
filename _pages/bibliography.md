@@ -17,7 +17,9 @@ If you'd like to add to the bibliography, you can do so in [this Dropbox documen
 
     - *Original paper that introduced BERT, authored by Google AI developers* 
 
-- **[Contextual Embeddings: When are They Worth It?](https://www.aclweb.org/anthology/2020.acl-main.236/)** by Simran Arora, Avner May, Jian Zhang, Christopher Ré (2020) 
+- **[Contextual Embeddings: When are They Worth It?](https://www.aclweb.org/anthology/2020.acl-main.236/)** by Simran Arora, Avner May, Jian Zhang, Christopher Ré (2020)
+
+    - *This paper compares the performance of contextual word embeddings (e.g. BERT) to static embeddings (e.g. GloVe) and describes when using contextual embeddings leads to large performance increases.*
 
 -  **[DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)** by Victor Sanh, Lysandre Debut, Julien Chaumond and Thomas Wolf (2020) 
 
@@ -106,6 +108,6 @@ If you'd like to add to the bibliography, you can do so in [this Dropbox documen
 
 # Educational Resources
 
-- **[Using BERT for next sentence prediction**](https://github.com/sinykin/QTM-340/blob/master/notebooks/class21-BERT-next-sentence-inclass-ds.ipynb) by Ted Underwood *(adapted and used in Dan Sinykin's Emory course "Practical Approaches to Data Science with Text" in 2020)*
+- **[Using BERT for next sentence prediction](https://github.com/sinykin/QTM-340/blob/master/notebooks/class21-BERT-next-sentence-inclass-ds.ipynb)** by Ted Underwood *(adapted and used in Dan Sinykin's Emory course "Practical Approaches to Data Science with Text" in 2020)*
 
     - *A notebook for teaching students about BERT*

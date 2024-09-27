@@ -43,7 +43,7 @@ toc: true
 
 - **[T5 meets Tybalt: Authorship Attribution in Early Modern English Drama Using Large Language Models](https://ceur-ws.org/Vol-3558/paper2757.pdf)** by Rebecca M. M. Hicke and David Mimno (2023)
 
- - *This paper explores the ability of medium-sized large language models to perform authorship attribution with very short segments of text in the difficult setting of Early Modern English drama.*
+    - *This paper explores the ability of medium-sized large language models to perform authorship attribution with very short segments of text in the difficult setting of Early Modern English drama.*
 
 ## Getting an overview
 
