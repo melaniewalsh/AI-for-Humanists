@@ -59,6 +59,14 @@ toc: true
 
     - *This paper examines the capability of a small, in-domain model (LEGAL-BERT) to annotate for gender bias in US capital trials.*
 
+- **[Distinguishing Fictional Voices: a Study of Authorship Verification Models for Quotation Attribution](https://arxiv.org/pdf/2401.16968)** by Gaspard Michel, Elena V. Epure, Romain Hennequin, and Christophe Cerisara
+
+    - *This paper looks at attributing dialogue to novel characters using character representations build by encoding their quotes.*
+
+- **[Stage Direction Classification in French Theater: Transfer Learning Experiments](https://hal.science/hal-04520702/)** by Alexia Schneider and Pablo Ruiz Fabo
+
+    - *This paper develops and evaluates methodologies for automatically identifying and classifying stage directions in French drama.*
+
 ### Named entity recognition
 
 - **[Recognising Occupational Titles in German Parliamentary Debates](https://aclanthology.org/2024.latechclfl-1.21.pdf)** by Johanna Binnewitt (2024)
