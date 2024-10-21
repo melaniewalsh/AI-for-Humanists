@@ -44,9 +44,9 @@ While models at this scale are sometimes noticeably less capable than the larges
 Since these systems run locally, they do not expose your data to any third parties, and they can access files locally on your disk if you choose to.
 Locally running mid-scale LLMs are often *quantized* to reduce their file and memory size.
 
-### Llama 3 / 3.1
+### Llama 3
 
-This is a highly capable model that comes in 8B and 30B parameter models, provided by Meta. You must sign a license with Meta to use them. Llama 3.1 is an updated version of Llama 3, intended to have better multilingual support.
+This is a highly capable model that comes in 8B and 30B parameter models, provided by Meta. You must sign a license with Meta to use them. Llama 3.1 is an updated version of Llama 3, intended to have better multilingual support. Llama 3.2 adds additional parameter sizes, 1B and 3B are smaller and may be more efficient for simpler tasks. The 11B and 90B sizes add text/image multimodal capabilities.
 
 ### Gemma
 
