@@ -11,37 +11,37 @@ Project Directors:
 - [Melanie Walsh](https://melaniewalsh.org/), Assistant Professor, Information School, University of Washington
 
 Team Members:
-- [Maria Antoniak](https://maria-antoniak.github.io/), Young Investigator, Allen Institute for AI
-- [Kiara Liu](https://prod.infosci.cornell.edu/content/liu-1), PhD Student, Cornell University
-- [Rebecca Hicke](https://rmatouschekh.github.io), PhD Student, Cornell University
+- [Maria Antoniak](https://maria-antoniak.github.io/), Postdoc, Pioneer Centre for AI, University of Copenhagen
+- [Kiara Liu](https://prod.infosci.cornell.edu/content/liu-1), PhD Student, Information Science, Cornell University
+- [Rebecca Hicke](https://rmatouschekh.github.io), PhD Student, Computer Science, Cornell University
 - [Rosamond Thalken](https://rosamondthalken.com/), PhD Candidate, Information Science, Cornell University
-- [Greg Yauney](https://gyauney.github.io/), Postdoc, University of Southern California
+- [Greg Yauney](https://gyauney.github.io/), Postdoc, Computer Science, University of Southern California
 
 
 ## Advisory Board
 
-- David Bamman, Associate Professor, School of Information, UC Berkeley
+- [David Bamman](https://people.ischool.berkeley.edu/~dbamman/), Associate Professor, School of Information, UC Berkeley
 
-- Peter Bol, Professor,  East Asian Languages and Civilizations, Harvard University
+- [Peter Bol](https://fairbank.fas.harvard.edu/person/peter-k-bol/), Professor, East Asian Languages and Civilizations, Harvard University
 
-- Rachel Buurma, Associate Professor, English, Swarthmore College
+- [Rachel Buurma](https://rachelsagnerbuurma.org), Associate Professor, English, Swarthmore College
 
-- Matthew Gold, Associate Professor, English and Digital Humanities, The Graduate Center, CUNY
+- [Matthew Gold](https://mkgold.net), Associate Professor, English and Digital Humanities, The Graduate Center, CUNY
 
-- Alvin C. Grissom II, Assistant Professor, Computer Science, Haverford College
+- [Alvin C. Grissom II](https://agrissom.sites.haverford.edu), Assistant Professor, Computer Science, Haverford College
 
-- Lauren Klein, Associate Professor, English and Quantitative Theory and Methods, Emory University
+- [Lauren Klein](https://lklein.com), Associate Professor, English and Quantitative Theory and Methods, Emory University
 
-- Lucy Li, PhD student, School of Information, UC Berkeley
+- [Lucy Li](https://lucy3.github.io), PhD Student, School of Information, UC Berkeley
 
-- Meredith Martin, Associate Professor, English Department, Princeton University
+- [Meredith Martin](https://english.princeton.edu/people/meredith-martin), Associate Professor, English Department, Princeton University
 
-- Ted Underwood, Professor, School of Information Sciences and English, University of Illinois, Urbana-Champaign
+- [Ted Underwood](https://tedunderwood.com), Professor, School of Information Sciences and English, University of Illinois, Urbana-Champaign
 
-- Allison Parrish, Assistant Arts Professor, New York University
+- [Allison Parrish](https://www.decontextualize.com), Assistant Arts Professor, New York University
 
-- Hongsu Henry Wang,  Research Fellow, Institute for Quantitative Social Science, Harvard University
+- [Hongsu Henry Wang](https://www.iq.harvard.edu/people/hongsu-henry-wang), Research Fellow, Institute for Quantitative Social Science, Harvard University
 
-- Richard Wicentowski, Professor, Computer Science, Swarthmore College
+- [Richard Wicentowski](https://www.cs.swarthmore.edu/~richardw/), Professor, Computer Science, Swarthmore College
 
 - Liu Zhou, Peking University

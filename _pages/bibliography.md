@@ -27,22 +27,47 @@ If you'd like to add to the bibliography, you can do so in [this Dropbox documen
 
 -  **[A Primer in BERTology: What We Know About How BERT Works](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00349#)** by Anna Rogers, Olga Kovaleva and Anna Rumshisky (2020)
 
-    - *A survey of 150+ studies of BERT that explores what BERT* *“knows”* *and how it might be improved. Very technical and invested in model architecture* 
+    - *A survey of 150+ studies of BERT that explores what BERT* *“knows”* *and how it might be improved. Very technical and invested in model architecture.* 
 
 # Tutorials & Primers
 
-- **[The Illustrated BERT, ELMo, and Co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)** by Jay Alammar (December 2018)
+- **[Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/)** by Jakob Uszkoreit (August 2017)
 
-    - *Helpful but very technical for a humanities audience* 
+    - *An introductory description of the transformer architecture.*
 
 - **[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)** by Jay Alammar (June 2017)
-    - *A helpful, but technical, dive into the transformer architecture*
+
+    - *A helpful, but technical, dive into the transformer architecture.*
+
+- **[Neural machine translation with a Transformer and Keras](https://www.tensorflow.org/text/tutorials/transformer)**
+
+    - *A detailed description of the transformer architecture with corresponding tensorflow code.*
+
+- **[A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)** by Jason Brownlee (September 2019)
+
+    - *A beginner's guide to transfer learning. Includes links to other sources and some examples.*
+
+- **[NLP for Developers: Transfer Learning | Rasa](https://www.youtube.com/watch?v=hJ1hzEJE16c)** by Rasa (December 2020)
+
+    - *A very accessible ~7 minute video introduction to transfer learning.*
+
+- **[The Illustrated BERT, ELMo, and Co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)** by Jay Alammar (December 2018)
+
+    - *Helpful but very technical for a humanities audience.*
+
+- **[Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer](https://research.google/blog/exploring-transfer-learning-with-t5-the-text-to-text-transfer-transformer/)** by Adam Roberts and Colin Raffel (February 2020)
+
+    - *A somewhat technical summary of the paper introducing the T5 model, Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.*
+
+- **[How GPT-3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)** by Jay Alammar (July 2020)
+
+    - *A helpful, slightly technical description of the GPT-3 model.*
 
 # Risks & Ethical Concerns
 
 - **[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922)** by Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell (2021)
 
-    - *This paper discusses the risks and ethical concerns of large language models like BERT, including biased and poorly documented training data as well as financial and environmental costs*
+    - *This paper discusses the risks and ethical concerns of large language models like BERT, including biased and poorly documented training data as well as financial and environmental costs.*
 
 - **[Extracting Data From Large Language Models](https://arxiv.org/pdf/2012.07805.pdf)** by Nicholas Carlini et al. (December 2020)
 
@@ -60,7 +85,7 @@ If you'd like to add to the bibliography, you can do so in [this Dropbox documen
 
 -  **[Do Humanists Need BERT?](https://tedunderwood.com/2019/07/15/do-humanists-need-bert/10)** by Ted Underwood (July 2019)
 
-    - *Overview of BERT and an assessment of its usefulness when applied to sentiment analysis of movie reviews and genre classification of books* 
+    - *Overview of BERT and an assessment of its usefulness when applied to sentiment analysis of movie reviews and genre classification of books.* 
 
 -  **[Literary Event Detection](https://doi.org/10.18653/v1/P19-1353)** by Matthew Sims, Jong Ho Park, and David Bamman (2019)
 
@@ -80,7 +105,7 @@ If you'd like to add to the bibliography, you can do so in [this Dropbox documen
 
 - **[Unsupervised Domain Adaptation of Contextualized Embeddings for Labeling](https://www.aclweb.org/anthology/D19-1433/)** by Xiaochuang Han and Jacob Eisenstein (2019) 
 
-    - *Domain adaptive fine-tuning on Early Modern English and Twitter*
+    - *Domain adaptive fine-tuning on Early Modern English and Twitter.*
 
 - **[What about Grammar? Using BERT Embeddings to Explore Functional-Semantic Shifts of Semi-Lexical and Grammatical Constructions](http://ceur-ws.org/Vol-2723/short15.pdf)** by Lauren Fonteyn (2020) 
 
@@ -100,14 +125,14 @@ If you'd like to add to the bibliography, you can do so in [this Dropbox documen
 
 -  **[Easy-Bert](https://github.com/robrua/easy-bert)** by Rob Rua
 
-    - *A simple API for accessing BERT* 
+    - *A simple API for accessing BERT.* 
 
 -  **[CLIP-as-Service](https://github.com/jina-ai/clip-as-service)** from Jina AI
 
-    - *A service for easy image and text embedding* 
+    - *A service for easy image and text embedding.* 
 
 # Educational Resources
 
 - **[Using BERT for next sentence prediction](https://github.com/sinykin/QTM-340/blob/master/notebooks/class21-BERT-next-sentence-inclass-ds.ipynb)** by Ted Underwood *(adapted and used in Dan Sinykin's Emory course "Practical Approaches to Data Science with Text" in 2020)*
 
-    - *A notebook for teaching students about BERT*
+    - *A notebook for teaching students about BERT.*
