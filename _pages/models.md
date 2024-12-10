@@ -46,7 +46,7 @@ Locally running mid-scale LLMs are often *quantized* to reduce their file and me
 
 ### Llama 3
 
-This is a highly capable model that comes in 8B and 30B parameter models, provided by Meta. You must sign a license with Meta to use them. Llama 3.1 is an updated version of Llama 3, intended to have better multilingual support. Llama 3.2 adds additional parameter sizes. The 1B and 3B models are smaller and may be more efficient for simpler tasks. The 11B and 90B sizes add text/image multimodal capabilities.
+This is a highly capable model that comes in 8B and 30B parameter models, provided by Meta. <b>Our current recommendation for the best balance between cost and capability is the Llama 3.1 8B model.</b> You must sign a license with Meta to use them. Llama 3.1 is an updated version of Llama 3, intended to have better multilingual support. Llama 3.2 adds additional parameter sizes. The 1B and 3B models are smaller and may be more efficient for simpler tasks. The 11B and 90B sizes add text/image multimodal capabilities. On the higher end, the 3.1 405B model seems to be the most capable open-weight model, but this requires significant hardware and technical experience to run. Llama 3.3 adds a new 70B model, for which there is some early evidence that it has nearly equivalent performance to the 405B model with much lower (but still large) hardware requirements. A Mac Studio with an M2 Ultra and 128G unified memory would be the most accessible way to run the 70B model, around US$4000.
 
 ### Gemma
 
