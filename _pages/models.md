@@ -72,9 +72,13 @@ The one that started it all! From Google. Less capability for non-English text, 
 
 *Distilled* models are smaller, faster models trained to emulate the output of larger models. DistilBERT is a good base for classifiers.
 
-### RoBERTa / XLM-RoBERTa
+### DeBERTa / RoBERTa / XLM-RoBERTa
 
-A strong alternative to BERT with a more expressive tokenizer. The XLM version supports dozens of languages.
+A strong alternative to BERT with a more expressive tokenizer. The XLM version supports dozens of languages. Several people report especially good results from [DeBERTa](https://huggingface.co/docs/transformers/en/model_doc/deberta) (thanks to @venkatasg.net for this tip!).
+
+### GLiNER
+
+The [GLiNER](https://huggingface.co/gliner-community) family of models is specially tuned for named entity recognition, and has its own python library. William Mattingly (@wjbmattingly.bsky.social) reports great results as a base model for lots of other text annotation and extraction tasks, such as [this notebook](https://huggingface.co/knowledgator/gliner-multitask-v1.0).
 
 ### GPT-2
 
