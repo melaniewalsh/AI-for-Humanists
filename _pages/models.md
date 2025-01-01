@@ -66,11 +66,13 @@ At this scale, up to around 1B parameters, you can load the original model in a 
 These models are generally noticeably less capable than the medium-scale models, and may not provide good results for instruction-based interaction.
 They may be better suited towards producing embeddings or serving as the base for a classifier.
 
-### BERT / DistillBERT
+### BERT / DistillBERT / ModernBERT
 
 The one that started it all! From Google. Less capability for non-English text, and somewhat out of date (2018), but still capable. BERT was only trained to fill in missing words, so it cannot generate new text.
 
 *Distilled* models are smaller, faster models trained to emulate the output of larger models. DistilBERT is a good base for classifiers.
+
+ModernBERT is a newly trained model that adds a lot of the tricks developed over the past few years to a BERT-sized encoder model, such as a more expressive tokenizer and an 8k context length. It is currently only supported by the developer version of Huggingface transformers, but is likely to be a recommended model soon.
 
 ### DeBERTa / RoBERTa / XLM-RoBERTa
 
