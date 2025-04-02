@@ -75,6 +75,13 @@ When you see the phrase "NLP tasks," this refer to tasks that are very common an
 
 NLP tasks are formulated either explicitly or implicitly as competitions. For example, many conferences have workshops or "shared task" events where different research teams compete for the highest performance on a shared labeled dataset. Such tasks have pros and cons, as they both push the research community towards better results but also constrain progress to the shared datasets and labels, which sometimes contain biases or are missing important examples.
 
+## Temperature
+Temperature is a parameter that controls the randomness or predictability of a language model’s outputs. Lower values (e.g. 0) make the model more deterministic, while higher values introduce more variability in responses. Though temperature is often described as a proxy for “creativity,” some research suggests that it may have a weak correlation with novelty or originality (see [Peeperkorn et al.](https://arxiv.org/abs/2405.00492)). This is an open area of investigation.
+
+Users can typically adjust temperature when accessing a model programmatically (e.g. via API), though it may not be available through standard web interfaces. Exploring outputs at different temperature levels can be particularly useful for creative tasks, such as poetry generation.
+
+Temperature scales vary across models. For example, [OpenAI’s models](https://platform.openai.com/docs/api-reference/responses/create#responses-create-temperature) accept values between 0 and 2, while [Anthropic’s range from 0 to 1](https://docs.anthropic.com/en/api/messages#body-temperature). Both default to a value of 1. Always refer to model-specific documentation for exact behavior and supported ranges.
+
 
 ## Transformers
 Transformers are a class of neural network models that are very effective for natural language processing. The transformer architecture was first introduced in Vaswani et. al's 2017 paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762). Importantly, transformers process all the inputs simultaneously (rather than sequentially, like in LSTMs) and are great at parallelization (breaking up our task into parallel pieces), allowing us to process more data more quickly.
