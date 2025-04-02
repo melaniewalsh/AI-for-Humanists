@@ -1,3 +1,3 @@
-# BERT for Humanists
+# AI for Humanists
 
-Website for the BERT for Humanists project
+Website for the AI for Humanists project
