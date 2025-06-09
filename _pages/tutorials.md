@@ -18,11 +18,13 @@ Most of the code tutorials are written in Python and use the popular `transforme
 
 ### Working with Local LLMs (On Your Own Computer!) — Ollama and Llama 3
 
-📔 [[Colab Notebook]](https://colab.research.google.com/drive/1TSWp1mXL8qQC2nCCmnqQQ_Md8g5x3u2z?usp=sharing)
+📔 [[Colab Notebook]](https://colab.research.google.com/drive/1V09aQmReB1iMDuTLIWArWODGbHlOK-kQ?usp=sharing)
 
-This [code notebook](https://colab.research.google.com/drive/1TSWp1mXL8qQC2nCCmnqQQ_Md8g5x3u2z?usp=sharing) (which should ideally be downloaded on your own computer) demonstrates how you can use local LLMs with Ollama to create structured data from unstructured text, as well as to chat and generate poems or create document embeddings.
+This [code notebook](https://colab.research.google.com/drive/1V09aQmReB1iMDuTLIWArWODGbHlOK-kQ?usp=sharing) (which should ideally be downloaded on your own computer) demonstrates how you can use local LLMs with Ollama to create structured data from unstructured text, as well as to chat and generate poems or create document embeddings.
 
 While people tend to think of AI as something controlled by a handful of very large companies, there are many free and open-source LLMs that you can download and run on your own computer.
+
+**Quick Colab Demo**: This notebook should ideally be run from your own computer, but we've prepared [a version](https://colab.research.google.com/drive/1DV8bfxL2WILUXw6Ux4NAsltDojirWrWC?usp=sharing) that will work in Colab for quick demo purposes.
 
 ## Word and Document Embeddings
 
