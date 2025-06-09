@@ -20,7 +20,7 @@ Most of the code tutorials are written in Python and use the popular `transforme
 
 📔 [[Colab Notebook]](https://colab.research.google.com/drive/1TSWp1mXL8qQC2nCCmnqQQ_Md8g5x3u2z?usp=sharing)
 
-This [code notebook](https://colab.research.google.com/drive/1TSWp1mXL8qQC2nCCmnqQQ_Md8g5x3u2z?usp=sharing) demonstrates how you can use local LLMs with Ollama to create structured data from unstructured text, as well as to chat and generate poems or create document embeddings.
+This [code notebook](https://colab.research.google.com/drive/1TSWp1mXL8qQC2nCCmnqQQ_Md8g5x3u2z?usp=sharing) (which should ideally be downloaded on your own computer) demonstrates how you can use local LLMs with Ollama to create structured data from unstructured text, as well as to chat and generate poems or create document embeddings.
 
 While people tend to think of AI as something controlled by a handful of very large companies, there are many free and open-source LLMs that you can download and run on your own computer.
 
