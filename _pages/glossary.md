@@ -10,6 +10,12 @@ toc: true
 ## Attention
 Attention is an important component of GPT, BERT, and other transformer models. At a high level, attention tells the model which pieces of input to "pay attention to" when making predictions. At a low level, attention is just a vector of weights over the inputs. Intuitively, you might expect that the model might "attend" to the words like "best" and "favorite" when doing sentiment analysis (though these attention decisions are often much less intuitive). You can read more about attention in this great [tutorial](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1).
 
+While it is an important part of what makes Transformer models work, Attention is also a limitation. Since every token can "talk" to every other token, the number of token-token relationships that have to be handled grows as the *square* of the number of tokens. Flash Attention is a trick for speeding this up by accumulating messages between tokens dynamically instead of calculating the full matrix of token-token weights.
+
+## Context windows
+Transformer models are built to handle a specific maximum number of tokens, called the context. The length is usually a power of 2: the BERT model had a context window, GPT3 had 2048, and some newer models have 128,000.
+A short story in English can be around 32k tokens for commonly used models. Most novels are between 128k and 1M tokens.
+
 ## Fine-Tune
 LLMs are "pre-trained" on large datasets of texts, such as Wikipedia, books, StackOverflow, and other texts from the internet. However, if you want to improve and tweak language models to perform better on *specific kinds of texts*, you can "fine-tune" the model.
 
@@ -76,12 +82,17 @@ When you see the phrase "NLP tasks," this refer to tasks that are very common an
 NLP tasks are formulated either explicitly or implicitly as competitions. For example, many conferences have workshops or "shared task" events where different research teams compete for the highest performance on a shared labeled dataset. Such tasks have pros and cons, as they both push the research community towards better results but also constrain progress to the shared datasets and labels, which sometimes contain biases or are missing important examples.
 
 ## Temperature
-Temperature is a parameter that controls the randomness or predictability of a language model’s outputs. Lower values (e.g. 0) make the model more deterministic, while higher values introduce more variability in responses. Though temperature is often described as a proxy for “creativity,” some research suggests that it may have a weak correlation with novelty or originality (see [Peeperkorn et al.](https://arxiv.org/abs/2405.00492)). This is an open area of investigation.
+Temperature is a parameter that controls the randomness or predictability of a language model’s outputs. Lower values (e.g. 0) make the model more deterministic, while higher values introduce more variability in responses. 
+There is no upper bound, but values above 2.0 result in generations that are less useful.
+Though temperature is often described as a proxy for “creativity,” some research suggests that it may have a weak correlation with novelty or originality (see [Peeperkorn et al.](https://arxiv.org/abs/2405.00492)). This is an open area of investigation.
 
 Users can typically adjust temperature when accessing a model programmatically (e.g. via API), though it may not be available through standard web interfaces. Exploring outputs at different temperature levels can be particularly useful for creative tasks, such as poetry generation.
 
 Temperature scales vary across models. For example, [OpenAI’s models](https://platform.openai.com/docs/api-reference/responses/create#responses-create-temperature) accept values between 0 and 2, while [Anthropic’s range from 0 to 1](https://docs.anthropic.com/en/api/messages#body-temperature). Both default to a value of 1. Always refer to model-specific documentation for exact behavior and supported ranges.
 
+## Thinking
+
+Some models have added the ability to activate something referred to as "thinking". Usually with chat-style interaction there is a user message with an instruction or request, and a system response that answers that request. The *thinking* setting gives the model the ability to generate output tokens in between the request and the response, which usually look like a narration of a thought process. Whether this narration is actually faithful to the processing going on is an open question, but allowing "thinking" tokens may improve results. 
 
 ## Transformers
 Transformers are a class of neural network models that are very effective for natural language processing. The transformer architecture was first introduced in Vaswani et. al's 2017 paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762). Importantly, transformers process all the inputs simultaneously (rather than sequentially, like in LSTMs) and are great at parallelization (breaking up our task into parallel pieces), allowing us to process more data more quickly.
